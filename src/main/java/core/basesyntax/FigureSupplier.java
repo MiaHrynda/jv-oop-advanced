@@ -57,3 +57,4 @@ public class FigureSupplier {
                 secondLeg, height);
     }
 }
+
